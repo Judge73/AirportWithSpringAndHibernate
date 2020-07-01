@@ -26,7 +26,7 @@
   	<junit.version>4.12</junit.version>
   	<log4j.version>2.6.2</log4j.version>
   	<lombok.version>1.16.20</lombok.version>
-  	<mysql.connector.version>5.1.40</mysql.connector.version>
+  	<mysql.connector.version>8.0.16</mysql.connector.version>
   	<mockito.version>1.10.19</mockito.version>
   	<jetty.version>9.3.13.v20161014</jetty.version>
   </properties>
